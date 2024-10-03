@@ -22,7 +22,7 @@ Below are important folders where results of experiments are stored.
 
 <h5> Saved Models </h5>
 - The model configuration after training are saved in a pickle (pkl) file. Subsequent runs of the experiments will simply load the pickle files and
-bypass retraining the model again, saving time. If you want to retrain the model from scratch delete the pickle file and rerun the experiment programs.
+bypass training the model again. If you want to retrain the model from scratch delete the pickle file and rerun the experiment programs.
 
 <h5> Additional Details </h5>
 - KBestScores: stores a ranked list of best features evaluated by the KBestFeatures function for each experiment. 
