@@ -29,7 +29,7 @@ bypass retraining the model again, saving time. If you want to retrain the model
 - RandomForestBestFeatures: stores the a ranked list of best features evaluated by Random Forest classifier.
 
 
-<h3> Steps to the Run Main Experiment </h3>
+<h3> III. Steps to the Run Main Experiment </h3>
 
 1) Run experiment_main.py
 
@@ -46,7 +46,7 @@ The folders starts with the file generated. If you deleted the file, you can run
 and Best Random Forest features (RandomForestBestFeatures_Main.csv).
 
 
-<h3> Run Experiments 2 or 3 </h3>
+<h3> IV. Run Experiments 2 or 3 </h3>
 
 1) Run experiment_2.py or experiment_3.py
 
