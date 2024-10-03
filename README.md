@@ -43,7 +43,7 @@ The folder starts with the file generated already. If you deleted the file, you 
 The folders starts with the file generated. If you deleted the file, you can run the program to generate them again.
 
 5) Additional details will save other information like Best Feature scores (KBestScores_Main.csv) 
-and Best Random Forest features (RandomForestBestFeatures_V2.csv).
+and Best Random Forest features (RandomForestBestFeatures_Main.csv).
 
 
 <h3> Run Experiments 2 or 3 </h3>
@@ -52,7 +52,7 @@ and Best Random Forest features (RandomForestBestFeatures_V2.csv).
 
 2) The models will start training. This might take up to 10 minutes depending on your device specifications.
 
-3) The test set predictions for each model will be saved in the Predictions folder. This will be named as [model_name]_[V2/V3].csv
+3) The test set predictions for each model will be saved in the Predictions folder. This will be named as [model_name]_[V2/V3].csv.
 The folder starts with the file generated already. If you deleted the file, you can run the program to generate them again.
 
 4) The model details will be stored in the pickle file as [model_name]_[V2/V3].pkl.
